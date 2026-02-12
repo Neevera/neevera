@@ -3,7 +3,10 @@
 <h1 align="center">Hanif Neevera</h1> 
 <h2 align="center">📊 Future Data Engineer | Data Infrastructure Enthusiast 📊</h2>
 
-## About Me
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+<h1 align="center">About Me</h1> 
 <p>I’m passionate about designing and building scalable data systems.
 My focus is not just querying data, but engineering how data flows, transforms, and becomes reliable for analysis and applications.
 
@@ -20,10 +23,6 @@ I enjoy thinking about how data moves across systems from raw input to structure
 🎯 Long-Term Goal
 
 To become a Data Engineer specializing in scalable data infrastructure and modern data pipelines.</p>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nv.hnivera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanif-hidayah-saputra/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifneevera@gmail.com) [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/neevvv)[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neevera)
