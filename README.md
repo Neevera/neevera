@@ -1,7 +1,8 @@
 ![Hanif Hidayah](github-header-banner.png)
 
 # Hanif Neevera 
-## Future Data Engineer | Data Enthusiast📊
+<h2 align="center"> Future Data Engineer | Data Enthusiast📊</h2>
+
 <!--
 **Neevera/neevera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
