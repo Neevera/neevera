@@ -3,6 +3,27 @@
 <h1 align="center">Hanif Neevera</h1> 
 <h2 align="center">📊 Future Data Engineer | Data Infrastructure Enthusiast 📊</h2>
 
+## About Me
+<p>I’m passionate about designing and building scalable data systems.
+My focus is not just querying data, but engineering how data flows, transforms, and becomes reliable for analysis and applications.
+
+I work on projects involving:
+
+🔄 Data Pipeline Concepts (ETL/ELT mindset)
+
+🗄️ Database Architecture & System Design
+
+🐍 Python for Data Processing & Automation
+
+📊 Exploratory Data Analysis
+
+🧩 System Integration & Workflow Automation
+
+I enjoy thinking about how data moves across systems from raw input to structured storage, and finally into meaningful insights.
+
+🎯 Long-Term Goal
+
+To become a Data Engineer specializing in scalable data infrastructure and modern data pipelines.</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nv.hnivera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanif-hidayah-saputra/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifneevera@gmail.com) [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()
