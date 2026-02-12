@@ -3,6 +3,10 @@
 <h1 align="center">Hanif Neevera</h1> 
 <h2 align="center">📊 Future Data Engineer | Data Infrastructure Enthusiast 📊</h2>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h2 align="center">About Me</h2>
 <p>I’m passionate about designing and building scalable data systems.
 My focus is not just querying data, but engineering how data flows, transforms, and becomes reliable for analysis and applications.
