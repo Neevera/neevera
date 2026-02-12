@@ -3,6 +3,8 @@
 <h1 align="center">Hanif Neevera</h1> 
 <h2 align="center">📊 Future Data Engineer | Data Infrastructure Enthusiast 📊</h2>
 
+![https://instagram.com/nv.hnivera_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 
 <!--
 **Neevera/neevera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
