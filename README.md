@@ -1,7 +1,7 @@
 ![Hanif Hidayah](github-header-banner.png)
 
 <h1 align="center">Hanif Neevera</h1> 
-<h2 align="center">Future Data Engineer | Data Enthusiast📊</h2>
+<h2 align="center">Future Data Engineer | Data Infrastructure Enthusiast📊</h2>
 
 
 <!--
