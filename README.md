@@ -11,7 +11,7 @@ My focus is not just querying data, but engineering how data flows, transforms, 
 - 🌱 I’m currently learning Data Engineering fundamentals, data pipelines, and infrastructure concepts  
 - 👯 I’m looking to collaborate on data engineering, backend, or automation projects  
 - 🤔 I’m looking for help with designing scalable data architectures and real-world pipeline implementation  
-- 💬 Ask me about Python, AI, data modeling, and automation workflows  
+- 💬 Ask me about Python, data modeling, and automation workflows  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy exploring how data flows behind the scenes more than just analyzing the final results
 
