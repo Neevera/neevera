@@ -1,11 +1,11 @@
 ![Hanif Hidayah](github-header-banner.png)
 
 <h1 align="center">Hanif Neevera</h1> 
-<h2 align="center">Future Data Engineer | Data Infrastructure Enthusiast📊</h2>
+<h2 align="center">📊 Future Data Engineer | Data Infrastructure Enthusiast 📊</h2>
 
 
 <!--
-**Neevera/neevera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Neevera/neevera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
