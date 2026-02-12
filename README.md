@@ -3,7 +3,7 @@
 <h1 align="center">Hanif Neevera</h1> 
 <h2 align="center">📊 Future Data Engineer | Data Infrastructure Enthusiast 📊</h2>
 
-[![Neev's GitHub stats](https://github-readme-stats.vercel.app/api?username=neevera)]
+
 <!--
 **Neevera/neevera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
