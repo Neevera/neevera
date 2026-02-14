@@ -18,11 +18,6 @@ My focus is not just querying data, but engineering how data flows, transforms, 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I enjoy exploring how data flows behind the scenes more than just analyzing the final results
 
-I enjoy thinking about how data moves across systems from raw input to structured storage, and finally into meaningful insights.
-
-🎯 Long-Term Goal
-
-To become a Data Engineer specializing in scalable data infrastructure and modern data pipelines.</p>
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nv.hnivera_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanif-hidayah-saputra/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanifneevera@gmail.com) [![kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/neevvv)[![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/neevera)
