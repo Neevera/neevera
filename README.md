@@ -5,16 +5,15 @@
 
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 <h1 align="center">About Me</h1> 
-<p>I’m passionate about designing and building scalable data systems.
-My focus is not just querying data, but engineering how data flows, transforms, and becomes reliable for analysis and applications.
+<p>I’m passionate about building intelligent systems that can learn and solve real-world problems. My focus is not just training models, but engineering how data transforms into smart insights and reliable AI-driven applications.
 
-- 🔭 I’m currently working on building data-driven systems and pipeline projects  
-- 🌱 I’m currently learning Data fundamentals, data pipelines, and infrastructure concepts  
-- 👯 I’m looking to collaborate on data engineering, backend, or automation projects  
-- 🤔 I’m looking for help with designing scalable data architectures and real-world pipeline implementation  
-- 💬 Ask me about Python, data modeling, data augmentation and automation workflows  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy exploring how data flows behind the scenes more than just analyzing the final results
+- 🔭 I’m currently working on AI-powered tools and predictive modeling projects
+- 🌱 I’m currently learning Machine Learning workflows, Deep Learning, and Model Deployment
+- 👯 I’m looking to collaborate on ML, NLP, or computer vision-based projects
+- 🤔 I’m looking for help with optimizing model accuracy and handling real-world datasets
+- 💬 Ask me about Python, Scikit-learn, Data Augmentation, and building AI automation
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I find more joy in seeing a model finally "get it" after hours of training than the actual final prediction results
 
 
 ## 🌐 Socials
